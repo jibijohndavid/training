@@ -18,8 +18,6 @@ DoB- 12-12-1996
 contact-9495172415
 From -Aleppy
 
-<<<<<<< HEAD
 the change
 
-=======
->>>>>>> ff9db27ce1511f64543df6a2b5d72cdea08f0cc5
+
