@@ -3,6 +3,7 @@ DoB- 08/01/1997
 contact- 9400648106
 From - Alappuzha/Kerala
 
+
 Education 
 Btech from GECBH trivadrum in Mechanical
 Higher secondary - TDHSS thuravoor
@@ -11,3 +12,9 @@ High School - SJPSP cherthala.
 Job
 Associate Frontend Developer in PITS 
 Training ongoing
+
+Arun.R
+DoB- 12-12-1996
+contact-9495172415
+From -Aleppy
+
